@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blpracticeassignment\\oopsobjectmodeling\\oopsobjectmodeling\\universitymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|solutionrelative:oopsobjectmodeling\\universitymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\oopsobjectmodeling\\executionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|solutionrelative:oopsobjectmodeling\\executionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\oopsobjectmodeling\\ecommerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|solutionrelative:oopsobjectmodeling\\ecommerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\oopsobjectmodeling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|solutionrelative:oopsobjectmodeling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\oopsobjectmodeling\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|solutionrelative:oopsobjectmodeling\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\oopsobjectmodeling\\paitenthospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|solutionrelative:oopsobjectmodeling\\paitenthospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\oopsobjectmodeling\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|solutionrelative:oopsobjectmodeling\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\oopsobjectmodeling\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|solutionrelative:oopsobjectmodeling\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\oopsobjectmodeling\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|solutionrelative:oopsobjectmodeling\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\oopsobjectmodeling\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87EBA7B-8114-4D98-9566-E281398CECBA}|OopsObjectModeling\\OopsObjectModeling.csproj|solutionrelative:oopsobjectmodeling\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\Program.cs",
+              "RelativeDocumentMoniker": "OopsObjectModeling\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\Program.cs",
+              "RelativeToolTip": "OopsObjectModeling\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:27:26.535Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExecutionClass.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\ExecutionClass.cs",
+              "RelativeDocumentMoniker": "OopsObjectModeling\\ExecutionClass.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\ExecutionClass.cs",
+              "RelativeToolTip": "OopsObjectModeling\\ExecutionClass.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAQwOsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:30:54.036Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversityManagement.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\UniversityManagement.cs",
+              "RelativeDocumentMoniker": "OopsObjectModeling\\UniversityManagement.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\UniversityManagement.cs",
+              "RelativeToolTip": "OopsObjectModeling\\UniversityManagement.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:05:11.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ecommerce.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\Ecommerce.cs",
+              "RelativeDocumentMoniker": "OopsObjectModeling\\Ecommerce.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\Ecommerce.cs",
+              "RelativeToolTip": "OopsObjectModeling\\Ecommerce.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAzwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:55:31.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaitentHospital.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\PaitentHospital.cs",
+              "RelativeDocumentMoniker": "OopsObjectModeling\\PaitentHospital.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\PaitentHospital.cs",
+              "RelativeToolTip": "OopsObjectModeling\\PaitentHospital.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAwHUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:32:17.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "University.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\University.cs",
+              "RelativeDocumentMoniker": "OopsObjectModeling\\University.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\University.cs",
+              "RelativeToolTip": "OopsObjectModeling\\University.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:47:24.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\School.cs",
+              "RelativeDocumentMoniker": "OopsObjectModeling\\School.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\School.cs",
+              "RelativeToolTip": "OopsObjectModeling\\School.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAQwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:10:45.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\Company.cs",
+              "RelativeDocumentMoniker": "OopsObjectModeling\\Company.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\Company.cs",
+              "RelativeToolTip": "OopsObjectModeling\\Company.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:58:41.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\Bank.cs",
+              "RelativeDocumentMoniker": "OopsObjectModeling\\Bank.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\Bank.cs",
+              "RelativeToolTip": "OopsObjectModeling\\Bank.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:39:26.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\Library.cs",
+              "RelativeDocumentMoniker": "OopsObjectModeling\\Library.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\BLPracticeAssignment\\OopsObjectModeling\\OopsObjectModeling\\Library.cs",
+              "RelativeToolTip": "OopsObjectModeling\\Library.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:29:54.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

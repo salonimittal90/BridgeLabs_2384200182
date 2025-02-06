@@ -1,0 +1,7 @@
+C:\Users\lenovo\OneDrive\Desktop\Object Modeling\OopsObjectModeling\OopsObjectModeling\obj\Debug\OopsObjectModeling.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\Object Modeling\OopsObjectModeling\OopsObjectModeling\obj\Debug\OopsObjectModeling.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\Object Modeling\OopsObjectModeling\OopsObjectModeling\bin\Debug\OopsObjectModeling.exe.config
+C:\Users\lenovo\OneDrive\Desktop\Object Modeling\OopsObjectModeling\OopsObjectModeling\bin\Debug\OopsObjectModeling.exe
+C:\Users\lenovo\OneDrive\Desktop\Object Modeling\OopsObjectModeling\OopsObjectModeling\bin\Debug\OopsObjectModeling.pdb
+C:\Users\lenovo\OneDrive\Desktop\Object Modeling\OopsObjectModeling\OopsObjectModeling\obj\Debug\OopsObjectModeling.exe
+C:\Users\lenovo\OneDrive\Desktop\Object Modeling\OopsObjectModeling\OopsObjectModeling\obj\Debug\OopsObjectModeling.pdb
