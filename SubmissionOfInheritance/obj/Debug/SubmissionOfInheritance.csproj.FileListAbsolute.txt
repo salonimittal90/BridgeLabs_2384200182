@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\SubmissionOfInheritance\SubmissionOfInheritance\bin\Debug\SubmissionOfInheritance.exe.config
+C:\Users\lenovo\source\repos\SubmissionOfInheritance\SubmissionOfInheritance\bin\Debug\SubmissionOfInheritance.exe
+C:\Users\lenovo\source\repos\SubmissionOfInheritance\SubmissionOfInheritance\bin\Debug\SubmissionOfInheritance.pdb
+C:\Users\lenovo\source\repos\SubmissionOfInheritance\SubmissionOfInheritance\obj\Debug\SubmissionOfInheritance.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\SubmissionOfInheritance\SubmissionOfInheritance\obj\Debug\SubmissionOfInheritance.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SubmissionOfInheritance\SubmissionOfInheritance\obj\Debug\SubmissionOfInheritance.exe
+C:\Users\lenovo\source\repos\SubmissionOfInheritance\SubmissionOfInheritance\obj\Debug\SubmissionOfInheritance.pdb
