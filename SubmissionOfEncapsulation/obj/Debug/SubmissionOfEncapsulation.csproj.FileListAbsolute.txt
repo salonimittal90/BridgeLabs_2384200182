@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\SubmissionOfEncapsulation\SubmissionOfEncapsulation\obj\Debug\SubmissionOfEncapsulation.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\SubmissionOfEncapsulation\SubmissionOfEncapsulation\obj\Debug\SubmissionOfEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SubmissionOfEncapsulation\SubmissionOfEncapsulation\bin\Debug\SubmissionOfEncapsulation.exe.config
+C:\Users\lenovo\source\repos\SubmissionOfEncapsulation\SubmissionOfEncapsulation\bin\Debug\SubmissionOfEncapsulation.exe
+C:\Users\lenovo\source\repos\SubmissionOfEncapsulation\SubmissionOfEncapsulation\bin\Debug\SubmissionOfEncapsulation.pdb
+C:\Users\lenovo\source\repos\SubmissionOfEncapsulation\SubmissionOfEncapsulation\obj\Debug\SubmissionOfEncapsulation.exe
+C:\Users\lenovo\source\repos\SubmissionOfEncapsulation\SubmissionOfEncapsulation\obj\Debug\SubmissionOfEncapsulation.pdb
