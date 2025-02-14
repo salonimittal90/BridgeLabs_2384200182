@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\SubmissionOfStacksQueues\SubmissionOfStacksQueues\bin\Debug\SubmissionOfStacksQueues.exe.config
+C:\Users\lenovo\source\repos\SubmissionOfStacksQueues\SubmissionOfStacksQueues\bin\Debug\SubmissionOfStacksQueues.exe
+C:\Users\lenovo\source\repos\SubmissionOfStacksQueues\SubmissionOfStacksQueues\bin\Debug\SubmissionOfStacksQueues.pdb
+C:\Users\lenovo\source\repos\SubmissionOfStacksQueues\SubmissionOfStacksQueues\obj\Debug\SubmissionOfStacksQueues.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\SubmissionOfStacksQueues\SubmissionOfStacksQueues\obj\Debug\SubmissionOfStacksQueues.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SubmissionOfStacksQueues\SubmissionOfStacksQueues\obj\Debug\SubmissionOfStacksQueues.exe
+C:\Users\lenovo\source\repos\SubmissionOfStacksQueues\SubmissionOfStacksQueues\obj\Debug\SubmissionOfStacksQueues.pdb
