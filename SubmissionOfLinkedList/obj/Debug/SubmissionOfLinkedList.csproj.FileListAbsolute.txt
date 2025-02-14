@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\SubmissionOfLinkedList\SubmissionOfLinkedList\obj\Debug\SubmissionOfLinkedList.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\SubmissionOfLinkedList\SubmissionOfLinkedList\obj\Debug\SubmissionOfLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SubmissionOfLinkedList\SubmissionOfLinkedList\bin\Debug\SubmissionOfLinkedList.exe.config
+C:\Users\lenovo\source\repos\SubmissionOfLinkedList\SubmissionOfLinkedList\bin\Debug\SubmissionOfLinkedList.exe
+C:\Users\lenovo\source\repos\SubmissionOfLinkedList\SubmissionOfLinkedList\bin\Debug\SubmissionOfLinkedList.pdb
+C:\Users\lenovo\source\repos\SubmissionOfLinkedList\SubmissionOfLinkedList\obj\Debug\SubmissionOfLinkedList.exe
+C:\Users\lenovo\source\repos\SubmissionOfLinkedList\SubmissionOfLinkedList\obj\Debug\SubmissionOfLinkedList.pdb
