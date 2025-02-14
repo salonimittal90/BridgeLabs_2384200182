@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\SubmissionOfSortingAlgorithms\SubmissionOfSortingAlgorithms\bin\Debug\SubmissionOfSortingAlgorithms.exe.config
+C:\Users\lenovo\source\repos\SubmissionOfSortingAlgorithms\SubmissionOfSortingAlgorithms\bin\Debug\SubmissionOfSortingAlgorithms.exe
+C:\Users\lenovo\source\repos\SubmissionOfSortingAlgorithms\SubmissionOfSortingAlgorithms\bin\Debug\SubmissionOfSortingAlgorithms.pdb
+C:\Users\lenovo\source\repos\SubmissionOfSortingAlgorithms\SubmissionOfSortingAlgorithms\obj\Debug\SubmissionOfSortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\SubmissionOfSortingAlgorithms\SubmissionOfSortingAlgorithms\obj\Debug\SubmissionOfSortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SubmissionOfSortingAlgorithms\SubmissionOfSortingAlgorithms\obj\Debug\SubmissionOfSortingAlgorithms.exe
+C:\Users\lenovo\source\repos\SubmissionOfSortingAlgorithms\SubmissionOfSortingAlgorithms\obj\Debug\SubmissionOfSortingAlgorithms.pdb
