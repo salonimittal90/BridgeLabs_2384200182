@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Submission of Linear and Binary Search\Submission of Linear and Binary Search\bin\Debug\Submission of Linear and Binary Search.exe.config
+C:\Users\lenovo\source\repos\Submission of Linear and Binary Search\Submission of Linear and Binary Search\bin\Debug\Submission of Linear and Binary Search.exe
+C:\Users\lenovo\source\repos\Submission of Linear and Binary Search\Submission of Linear and Binary Search\bin\Debug\Submission of Linear and Binary Search.pdb
+C:\Users\lenovo\source\repos\Submission of Linear and Binary Search\Submission of Linear and Binary Search\obj\Debug\Submission of Linear and Binary Search.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Submission of Linear and Binary Search\Submission of Linear and Binary Search\obj\Debug\Submission of Linear and Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Submission of Linear and Binary Search\Submission of Linear and Binary Search\obj\Debug\Submission of Linear and Binary Search.exe
+C:\Users\lenovo\source\repos\Submission of Linear and Binary Search\Submission of Linear and Binary Search\obj\Debug\Submission of Linear and Binary Search.pdb
